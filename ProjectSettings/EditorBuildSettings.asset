@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1/Map1.unity
+    guid: 43786ff3853e3da4d98401f747dc6de0
+  - enabled: 1
+    path: Assets/Scenes/1/Map1.1.unity
+    guid: 6ec01ec0711a94e47a5c7ec0937f66a8
+  - enabled: 1
+    path: Assets/Scenes/lava/Map2Lava.unity
+    guid: 42886182d37949047a6745d2aabaf452
+  - enabled: 1
+    path: Assets/Scenes/Crystal/CrystalMap3.unity
+    guid: 0bf99df37c9b90040bcaf1869394cf9a
+  - enabled: 1
+    path: Assets/Scenes/LastScence/lastscence.unity
+    guid: 604d718309219774ba3efb7c58b06534
+  - enabled: 1
+    path: Assets/Scenes/LastScence/lastscence1.unity
+    guid: 233005f64dddd624a992b98f2e26dcf6
+  - enabled: 1
+    path: Assets/Scenes/LastScence/lastscence2.unity
+    guid: aacdf88d57499654aa0c7ecf462fd648
+  - enabled: 1
+    path: Assets/Scenes/LastScence/lastscence3.unity
+    guid: 3520a805ea5be9a4397eb3fa629d9584
+  - enabled: 1
+    path: Assets/Scenes/LastScence/lastscence4.unity
+    guid: 344fba2db44051b41af97a488fbb700c
+  - enabled: 1
+    path: Assets/Scenes/infoscence.unity
+    guid: 797ce89e559274747a4d341b1fa2287e
+  - enabled: 1
+    path: Assets/Scenes/photoscence/long.unity
+    guid: 7be4bca07b88c5b438bda2852de216e0
+  - enabled: 1
+    path: Assets/Scenes/photoscence/camping.unity
+    guid: 0bdc9528cb8522944af4533293ec10a8
+  - enabled: 1
+    path: Assets/Scenes/photoscence/hai.unity
+    guid: 192aa9d325854a94b9f4a407e23f6250
+  - enabled: 1
+    path: Assets/Scenes/photoscence/don.unity
+    guid: 55983ff69c6960a49b49eb78264716ed
+  - enabled: 1
+    path: Assets/Scenes/photoscence/run.unity
+    guid: dee47ab4ab43b3e46843f7012ad2dac3
+  m_configObjects: {}

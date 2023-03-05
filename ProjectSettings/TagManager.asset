@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - enemy
+  - Trap
+  - teleport
+  - sword
+  - teleport2
+  - laser
+  - Restart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemies
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background1
+    uniqueID: 1296624273
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background2
+    uniqueID: 3789874301
+    locked: 0
+  - name: background3
+    uniqueID: 15391835
+    locked: 0
+  - name: enemy
+    uniqueID: 1545358179
+    locked: 0
+  - name: main
+    uniqueID: 1262832511
+    locked: 0
+  - name: Ground
+    uniqueID: 4165323447
+    locked: 0
+  - name: cat
+    uniqueID: 4005924241
+    locked: 0
+  - name: Player
+    uniqueID: 2019177539
+    locked: 0
